@@ -32,7 +32,7 @@ fraud-detection-project/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/fraud-detection-project.git
+   git clone https://github.com/neelapalasravani/fraud-detection-project.git
    cd fraud-detection-project
    ```
 
