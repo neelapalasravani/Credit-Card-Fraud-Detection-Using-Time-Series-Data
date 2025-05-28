@@ -2,6 +2,11 @@
 
 This project explores both **unsupervised** and **supervised** learning techniques to detect fraudulent transactions using real-world-style transactional data.
 
+Dataset: https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets
+Considered files include: 
+1) Transaction data(transactions_data.csv)
+2) Fraud_labels(train_fraud_labels.json)
+
 ## 📁 Project Structure
 
 ```
